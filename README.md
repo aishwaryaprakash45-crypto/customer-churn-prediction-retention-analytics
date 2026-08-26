@@ -1,5 +1,14 @@
 # Customer Churn Prediction & Retention Analytics
+## Project Highlights
 
+| Area | Result |
+|---|---:|
+| Customers Analyzed | 7,043 |
+| Best ROC-AUC | **0.8421** |
+| Logistic Regression Recall | **75.40%** |
+| High-Risk Actual Churn | **71.8%** |
+| Highest-Churn Segment | **Month-to-month + Fiber optic** |
+| High-Risk Monthly Revenue | **185,181.10** |
 ## Overview
 
 An end-to-end machine learning project that predicts telecom customer churn,
