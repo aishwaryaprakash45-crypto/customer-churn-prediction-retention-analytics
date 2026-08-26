@@ -86,3 +86,7 @@ support data-driven customer management.
 
 **Customer Data → Churn Prediction → Risk Segmentation → Retention
 Prioritization → Revenue Impact**
+
+## Project Preview
+
+![Project Results](project-results.png)
